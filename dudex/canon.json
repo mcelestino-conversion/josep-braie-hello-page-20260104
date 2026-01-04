@@ -1,0 +1,17 @@
+{
+  "canon_version": "1.0",
+  "description": "a simple hello world page built with next.js, typescript, and tailwind css.",
+  "features": [],
+  "pages": [
+    "home"
+  ],
+  "project": {
+    "framework": "nextjs",
+    "language": "typescript",
+    "name": "hello page",
+    "type": "web_app"
+  },
+  "styling": {
+    "framework": "tailwind"
+  }
+}
